@@ -1,5 +1,5 @@
-title:            Hi, friends!
-description:      David Ng
+title:            Daijian's Coder Life
+description:      All Tech.
 disqus_shortname: 
 reading_time:     false
 comments:         yes
@@ -10,21 +10,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           David Ng
+  name:           Daijian
   avatar:         avatar.jpg
   bio:            "Some Personal Observations On TECH…and LIFE."
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        david15894
-  facebook:       david15894
-  github:         minhhuy150894
+  twitter:        carvin
+  facebook:       carvin_dy
+  github:         zichundai
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +HuyNguyenMinhStormChaser
+  google_plus:    +daijian
 
 # Background image to be tiled on all pages
 background: 
