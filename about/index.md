@@ -20,11 +20,10 @@ I'm interested in <b>Android</b> system development, also IOS app design. This p
 
 <h2 style="color: #006699">Contact details:</h2>
 
-> Nguyen Minh Huy (David Ng)<br>
-> Birthday: August 15<sup>th</sup>, 1994<br>
-> Languages: Vietnamese, American English<br>
-> University: HUFLIT. Ho Chi Minh city. Vietnam<br>
-&#128222; +(84) 935 059109<br>
+> Daijian(Carvin)<br>
+> Languages: Chinese, English<br>
+> Company: Chongqing Shinsky Tech.<br>
+&#128222; +(86)13692201219<br>
 
 
 
