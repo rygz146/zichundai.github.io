@@ -2,21 +2,20 @@
 layout: page
 title: About me
 comments: false
-modified: 2014-04-04
+modified: 2015-09-09
 ---
 
-Hello, i'm David Ng<br>
-a student in <b>Software Engineering</b> at the <b>University of Foreign Languages - Information Technology</b>, Ho Chi Minh City, Viet Nam. <br><br>
-I'm interested in <b>Android</b> apps/games development, also an amateur web developer and designer too. This page is just my blog, where i share everything about Tech, even my Life. Mostly for selfish reasons. I research things I find interesting, then write it on this public blog, where I can easily find and refer to later.
+Hello, i'm DaiJian<br>
+a coder in <b>Shinskytech.</b> at the <b>Chongqing and Shenzhen</b>, China. <br><br>
+I'm interested in <b>Android</b> system development, also IOS app design. This page is just my blog, where i share everything about Tech, even my Life. Mostly for selfish reasons. I research things I find interesting, then write it on this public blog, where I can easily find and refer to later.
 <br>
 <br>
 <br>
 <b>My skills:</b><br>
-- Programming languages: <b>Java/Android</b>, C/C++/C#, Python, Html-5, Css-3, a little bit of Php, JavaScript.<br>
-- Graphic design: Adobe Photoshop, Adobe Illustrator.<br>
-- OS: MS Windows, a bit of Linux.
+- Programming languages: <b>Java/Android</b>, IOS, C/C++/C#, Python, Html-5.<br>
+- OS: OS X, Linux.
 <br><br><br><br><br>
-...How can you contact me? Ask me something? <a href="http://minhhuy150894.github.io/Ask-me/">&#9654; Click here!</a><br>or send an email directly to <b>minhhuy150894@gmail.com</b>
+...How can you contact me? Ask me something? <a href="http://zichundai.github.io/Ask-me/">&#9654; Click here!</a><br>or send an email directly to <b>daijian@shinskytech.com</b>
 <br>
 
 <h2 style="color: #006699">Contact details:</h2>
