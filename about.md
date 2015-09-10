@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="{{ site.baseurl }}assets/profile-placeholder.png" title="Profile Picture" class="profile">
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+写了10多年的代码，也该有一个自己的[Blog](http://zichundai.github.io)。  
+这是闲暇之余用jekyll，github和markdown搭建起来的一个简单的blog。个人觉得还算简洁。  
+这些年写了不少代码，也希望这个[Blog](http://zichundai.github.io)能记录下我曾经琢磨过的一些东东。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+我目前吃饭的平台是Android，但个人喜欢Apple的大多数产品，也喜欢摆弄各种电子产品。
+
+现就职于某方案公司。  
+
