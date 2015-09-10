@@ -22,7 +22,6 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-highlighter: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives: 
@@ -35,24 +34,29 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: carvin 
+disqus_shortname: daijiansblog
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: sprd
+    desc: "sprd platfrom"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: linux
+    desc: "linux knowledge"
 
   - cat: android 
     desc: "all about android system, app develop"
 
   - cat: ios 
     desc: "About ios development"
+
+  - cat: life
+    desc: "for better life"
+
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
@@ -71,6 +75,15 @@ descriptions:
 #     share_title: ?text=                   # Title parameter for sharing URL
 #     share_link: "&amp;url="               # Link parameter for sharing URL
 social:
+  - name: weibo
+    icon: weibo
+    username: daigege
+    url: http://weibo.com/daigege
+    desc: ¹Ø×¢ÎÒµÄÎ¢²©
+    share_url: //weibo.com/share
+    share_title: ?title=
+    share_link: "&amp;url="
+
   - name: Twitter
     icon: twitter
     username: "@carvin_dy"
@@ -83,7 +96,7 @@ social:
   - name: Facebook
     icon: facebook
     username: carvin_dy
-    url: 
+    url: http://www.facebook.com/carvin_dy
     desc: Friend me on Facebook
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=
@@ -91,21 +104,12 @@ social:
 
   - name: GitHub
     icon: github
-    username: zichundai
+    username: daijian
     url: https://github.com/zichundai
     desc: Fork me on GitHub
     share_url:
     share_title:
     share_link:
-
-  - name: Google+
-    icon: google-plus
-    username: 
-    url: 
-    desc: Add me to your Circles
-    share_url: //plus.google.com/share
-    share_title: ?title=
-    share_link: "&amp;url="
 
   - name: YouTube
     icon: youtube
