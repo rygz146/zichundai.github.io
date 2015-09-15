@@ -52,6 +52,9 @@ descriptions:
 
   - cat: ios 
     desc: "About ios development"
+    
+  - cat: git
+    desc: "About git knowledge"
 
   - cat: life
     desc: "for better life"
